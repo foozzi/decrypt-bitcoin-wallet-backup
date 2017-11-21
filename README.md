@@ -7,6 +7,7 @@ simple example decrypt bitcoin wallet backup [android app backup - https://githu
 
 ## Test on
  - Arch Linux x64
+ - MacOS
 
 
 
